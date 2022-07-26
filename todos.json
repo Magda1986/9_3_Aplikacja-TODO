@@ -1,1 +1,33 @@
-[{"title": "zrobi\u0107 zakupy", "description": "marchewka, arbuz", "done": true}, {"title": "jsfhdgf", "description": "jhasgdfh ahsjfhg jgfhjga, dodatkowe", "done": true}, {"title": "hjhf", "description": "bshfg", "done": false}]
+{
+    "1": {
+        "title": "Tort pavlova ",
+        "description": "gotowe kr\u0105\u017cki bezowe, serek mascarpone, krem\u00f3wka 30%, cukier waniliowy, \u015bwie\u017ce owoce do dekoracji ",
+        "done": true
+    },
+    "2": {
+        "title": "Szarlotka ",
+        "description": "2 szklanki m\u0105ki bezglutenowej, mas\u0142o, cukier, jab\u0142ka, 4 jajka, 2 kg jab\u0142ek ",
+        "done": true
+    },
+    "4": {
+        "title": "Ciasto czekoladowe",
+        "description": "2 szklanki m\u0105ki, 1 szklanka cukru, czekolada, kakao, proszek do pieczenia, 5 jajek , maliny do dekoracji",
+        "done": false
+    },
+    "5": {
+        "title": "Tarta Bor\u00f3wkowa  z budyniem",
+        "description": "1 szklanka m\u0105ki, 1 szklanka cukru, 1 szklanka wi\u00f3rk\u00f3w kokosowych, proszek do pieczenia, jakja serek mascarpone, krem\u00f3wka 30%, \u015bwie\u017ce bor\u00f3wki",
+        "done": false
+    },
+    "6": {
+        "title": "Pty\u015b",
+        "description": "Z kremem",
+        "done": false
+    },
+    "7": {
+        "title": "ekler v2",
+        "description": "Krem, ciasto francuskie, magiczny sk\u0142adnik",
+        "done": false
+    },
+    "next_id": 9
+}
